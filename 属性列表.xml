@@ -1100,4 +1100,5 @@
 		<Attribute name="autoplay" default="true" type="BOOL" comment="是否自动播放GIF动画"/>
 		<Attribute name="autosize" default="false" type="BOOL" comment="是否根据图片自动设置控件大小(开启后width和height属性失效)"/>
 	</GifAnim>
+	<DIY/>
 </Controls>
